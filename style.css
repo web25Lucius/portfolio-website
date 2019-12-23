@@ -12,6 +12,15 @@ body {
 	background-attachment: fixed;
 }
 
+a{
+	text-decoration: none;
+	color: inherit;  
+}
+
+.fa-3x i{
+	font-size: 2.4rem; 
+}
+
 .icons>a {
 	text-decoration: none;
 	color: darkgray;
@@ -331,7 +340,7 @@ body {
 	background-color: black;
 }
 
-.fa-instagram:hover {
+.fa-linkedin-in:hover {
 	border-radius: 50%;
 	color: white;
 	background-color: #5851db;
